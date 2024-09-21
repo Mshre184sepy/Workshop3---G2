@@ -16,4 +16,6 @@
  changes. This would keep everyone organized and avoid confusion. The app would send reminders and notifications so that users never miss a detail.
 
 ### 3. List the technologies required by the solution
+1. Mobile development framework (e.g., React Native, Flutter) to build the app's user interface and functionalities.
+2. Mapping APIs (e.g., Google Maps) for trip visualization and navigation.
 
