@@ -13,4 +13,6 @@
 
 
 ### 3. List the technologies required by the solution
+1. Mobile development framework (e.g., React Native, Flutter) to build the app's user interface and functionalities.
+2. Mapping APIs (e.g., Google Maps) for trip visualization and navigation.
 
