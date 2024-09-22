@@ -24,4 +24,6 @@
 2. Mapping APIs (e.g., Google Maps) for trip visualization and navigation.
 3. Cloud Storage: Services like AWS or Google Cloud to store and back up data.
 4. Push notifications: Firebase cloud Messaging(FCM) or Apple Push notification or pushwoosh to recieve notification on any platform
-
+5. Cookies: Used to enchance personalized ads, if opted-in
+6. Language Translation APIs: To automatically translate the user's content to their preferred language
+7. End-to-end encryption (E2EE): Encrypts data when sharing important information directly to friends and/or family
