@@ -21,4 +21,4 @@
 1. Mobile development framework (e.g., React Native, Flutter) to build the app's user interface and functionalities.
 2. Mapping APIs (e.g., Google Maps) for trip visualization and navigation.
 3. Cloud Storage: Services like AWS or Google Cloud to store and back up data.
-
+4. Push notifications: Firebase cloud Messaging(FCM) or Apple Push notification or pushwoosh to recieve notification on any platform.
