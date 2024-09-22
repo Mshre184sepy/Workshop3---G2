@@ -12,9 +12,7 @@
 ### 2. Propose a solution
 1. Our mobile app could make planning and organizing trips much easier. It would allow users to gather all the important details, like flight information, hotel bookings, and other activities, in one place. Users would be able to create day-by-day plans and add everything they need for their trip. The app would also connect to services like booking websites and maps, so users can find and book things without leaving the app.
 
-   The app would also have a feature to share trip plans with friends and family. Users could share their travel plans and even allow others to help edit or suggest 
- changes. This would keep everyone organized and avoid confusion. The app would send reminders and notifications so that users never miss a detail.
-
+   
 ### 3. List the technologies required by the solution
 1. Mobile development framework (e.g., React Native, Flutter) to build the app's user interface and functionalities.
 2. Mapping APIs (e.g., Google Maps) for trip visualization and navigation.
