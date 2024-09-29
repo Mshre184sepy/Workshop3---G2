@@ -17,7 +17,7 @@ Our team agrees to the following guidelines and principles to ensure a productiv
    - **Pair Programming:** We encourage pair programming for complicated tasks or when team members experience blockers.
    - **Code Reviews:** All pull requests must be reviewed and approved by at least one other team member before merging.
    - **Shared Responsibility:** Everyone is responsible for the project's success. We will assist and support each other to ensure smooth progress.
-   - **Respectful Feedback:** Feedback should be constructive and focused on the code or task at hand, not the person.
+   - **Respectful Feedback:** Feedback delivered should be constructive and focused on the code or task at hand, not the person.
 
 ### 3. **Work Commitments**
    - **Task Assignments:** Team members are responsible for selecting tasks from the product backlog, based on priority, during sprint planning.
