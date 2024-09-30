@@ -3,7 +3,7 @@
 Our team agrees to the following guidelines and principles to ensure a productive, collaborative, and respectful working environment.
 
 ## Team Lead - Shreya                                                  
-## Project Mentor - 
+## Project Mentor - Jui Sachinkumar Parikh
 
 ### 1. **Communication**
    - **Primary Communication Tools:** We will use - WhatsApp and Microsoft Teams for daily communication and quick updates.
